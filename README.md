@@ -13,8 +13,8 @@
    ослы), а затем объединить их. Просмотреть содержимое созданного файла.
    Переименовать файл, дав ему новое имя (Друзья человека).
 
-![Nursery_1.png](..%2F..%2FPictures%2FScreenshots%2FNursery_1.png)
-![Nursery_2.png](..%2F..%2FPictures%2FScreenshots%2FNursery_2.png)
+![Nursery_1.png](images%2FNursery_1.png)
+![Nursery_2.png](images%2FNursery_2.png)
 
 2. Создать директорию, переместить файл туда.
 
