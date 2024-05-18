@@ -1,0 +1,22 @@
+mkdir Nursery
+cd ~/Nursery
+cat > home_animals
+cat home_animals
+cat > pack_animals
+cat pack_animals
+cat home_animals pack_animals > animals
+cat animals
+mv animals friendsOfman
+ls
+ls -al
+cd ~$
+mkdir Nursery_system
+cd ~/Nursery
+mv friendsOfman ~/Nursery_system
+cd ~/Nursery_system
+ls
+ls -al
+clear
+sudo wget https://dev.mysql.com/get/mysql-apt-config_0.8.30-1_all.deb
+sudo dpkg -i mysql-apt-config_0.8.30-1_all.deb
+sudo dpkg -r mysql-server
